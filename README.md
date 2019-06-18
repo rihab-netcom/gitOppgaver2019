@@ -25,7 +25,7 @@ Lag en liten feature
 Fiks en liten bug
 
 - Lag en ny branch utifra master med navn ```bugfix-<branch_navn>```
-- Gjør om linjen ”Skriveleif” til ”Skrivefeil” i README.MD
+- Gjør om linjen ”Skrivefeil” til ”Skrivefeil” i README.MD
 - Commit med passende melding
 - Push opp branchen til repoet
 - Sjekk at branchen eksisterer i remote repo på Gitlab
@@ -47,7 +47,7 @@ Lag en merge request
 
 - Lag en ny branch utifra master
 - Push den nye branchen til remote repo
-- Lag en merge request for branchen du lagde i oppgave 1. Branchen du nettopp lagde 
+- Lag en merge request for branchen du lagde i oppgave 1. Branchen du nettopp lagde
 skal være "target" branch for merge request, mens branchen fra oppgave 1 skal være "source"
 branch.
     - Hint: Hvis du tidligere har pushet en branch til remote i terminal har du kanskje sett
@@ -56,7 +56,7 @@ branch.
     - Vedkommende skal lage minst en kommentar på en vilkårlig linje i "changes"-view
     - Vedkommende skal akseptere merge-requesten (trykk "merge") etter å ha lagd
     en kommentar
-    
+
 ## Oppgave 5
 Now with GUI!
 
