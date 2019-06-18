@@ -4,7 +4,7 @@ Tilhører Git-kurs for sommerprosjektet 2017
 
 (http://memeshappen.com/media/created/One-does-not-simply-understand-git-meme-60285.jpg)
 
-Skriveleif
+Skrivefeil
 
 # Oppgaver
 Hvis du står fast kan du gå tilbake til (https://try.github.io) for å se over
